@@ -19,7 +19,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nhadiq97&layout=compact&theme=onedark&column=7)]
+![trophy](https://github-profile-trophy.vercel.app/?username=nhadiq97&layout=compact&theme=onedark&column=7)
 
 <p align="center">
 <a href="https://dev.to/nhadiq97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nhadiq97" height="20" width="20" /></a>
