@@ -14,9 +14,6 @@
 
 - 📫 How to reach me **hello@nhadiq.me**
 
-
-Git Status | Languages 
------------- | -------------
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nhadiq97&layout=compact&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true" alt="nhadiq97" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhadiq97&theme=chartreuse-dark&include_all_commits=true" />
 
 ## Medium Articles
