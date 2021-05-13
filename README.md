@@ -14,7 +14,9 @@
 
 - 📫 How to reach me **hello@nhadiq.me**
 
-<img src="https://github-readme-stats.vercel.app/api?username=nhadiq97&show_icons=true" alt="nhadiq97" /> </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhadiq97&layout=compact&theme=chartreuse-dark&show_icons=true" alt="nhadiq97" /> </p>  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhadiq97&layout=compact&theme=chartreuse-dark&show_icons=true" />
+
 
 <p align="center">
 <a href="https://dev.to/nhadiq97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nhadiq97" height="20" width="20" /></a>
