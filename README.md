@@ -16,7 +16,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nhadiq97&layout=compact&theme=chartreuse-dark&show_icons=true" alt="nhadiq97" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhadiq97&layout=compact&theme=chartreuse-dark&show_icons=true" />
-[![Naeem Hadiq Medium](https://github-readme-medium.vercel.app/?username=nhadiq)]
+[![Naeem Hadiq Medium](https://github-readme-medium.vercel.app/?username=nhadiq)](https://medium.com/@nhadiq)
 
 ## 🏆 GitHub Trophies
 
