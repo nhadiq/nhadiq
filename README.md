@@ -16,12 +16,12 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nhadiq97&layout=compact&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true" alt="nhadiq97" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhadiq97&theme=chartreuse-dark&include_all_commits=true" />
 
-## Medium Articles
+## 📝 Medium Articles
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nhadiq/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nhadiq/0" alt="Latest Medium Article"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nhadiq/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nhadiq/1" alt="Latest Medium Article"></a>
 
-## Technology and Tools 
+## 🚀 Technology and Tools 
 
 | **☁ Cloud**             	| <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">|
 |:-------------------------:	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|
