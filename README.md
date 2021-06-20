@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naeem Hadiq</h1>
 <h3 align="center">A Tech crazy, passionate Maker/Developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhadiq97" alt="nhadiq97" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhadiq" alt="nhadiq" /> </p>
 
 - 🔭 I’m currently working on **MROV**
 
