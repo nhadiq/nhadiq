@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **hello@nhadiq.me**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhadiq97&layout=compact&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true" alt="nhadiq97" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhadiq97&theme=chartreuse-dark&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhadiq&layout=compact&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true" alt="nhadiq" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhadiq&theme=chartreuse-dark&include_all_commits=true" />
 
 ## 📝 Medium Articles
 
