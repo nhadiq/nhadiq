@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Naeem Hadiq</h1>
-<h3 align="center">A Tech crazy, passionate Maker/Developer from India</h3>
+<h3 align="center">A Tech crazy, passionate Product Manager/Maker from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhadiq" alt="nhadiq" /> </p>
 
-- 🔭 I’m currently working on **MROV**
-
-- 🤔 I’m looking for help with [Planet Vitals](https://github.com/innovationincubatoradvisory/Planetvitals)
+- 🔭 I’m currently working on **Vspace**
 
 - 👨‍💻 All of my projects are available at [https://nhadiq.me/](https://nhadiq.me/)
 
 - 📝 I regulary write articles on [https://dev.to/nhadiq97](https://dev.to/nhadiq97)
 
-- 💬 Ask me about **Python, AWS, Linux, Electronics, Marketing, Design**
+- 💬 Ask me about **Python, AWS, Linux, Product Managment, Electronics, Marketing, Design**
 
 - 📫 How to reach me **hello@nhadiq.me**
 
