@@ -2,7 +2,7 @@
 <h3 align="center">A Tech crazy, passionate Product Manager/Maker from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhadiq" alt="nhadiq" /> </p>
 
-- 🔭 I’m currently working on **Vspace**
+- 🔭 I’m currently working on **Cybersapient**
 
 - 👨‍💻 All of my projects are available at [https://nhadiq.me/](https://nhadiq.me/)
 
