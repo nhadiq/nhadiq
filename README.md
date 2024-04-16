@@ -9,10 +9,15 @@
 - 📝 I regulary write articles on [https://dev.to/nhadiq97](https://dev.to/nhadiq97)
 
 - 💬 Ask me about **Python, AWS, Linux, Product Managment, Electronics, Marketing, Design**
-
-- 📫 How to reach me **hello@nhadiq.me**
-
-<img align="center" src="https://githubreadme.nhadiq.me/api?username=nhadiq&layout=compact&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true" alt="nhadiq" />|<img align="center" src="https://githubreadme.nhadiq.me/api/top-langs/?username=nhadiq&theme=chartreuse-dark&include_all_commits=true" />
+  
+## 📫 Connect with me:
+<p align="left">
+<a href="https://dev.to/nhadiq97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.12.0/icons/devdotto.svg" alt="nhadiq97" height="20" width="20" /></a>
+<a href="https://twitter.com/nhadiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.12.0/icons/twitter.svg" alt="nhadiq" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/naeemhadiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.12.0/icons/linkedin.svg" alt="naeemhadiq" height="20" width="20" /></a>
+<a href="https://fb.com/nhadiq1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nhadiq1" height="20" width="20" /></a>
+<a href="https://instagram.com/nhadiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nhadiq" height="20" width="20" /></a>
+</p>
 
 ## 📝 Medium Articles
 
@@ -32,10 +37,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=nhadiq&layout=compact&theme=algolia&column=7&no-frame=true)
 
-<p align="center">
-<a href="https://dev.to/nhadiq97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nhadiq97" height="20" width="20" /></a>
-<a href="https://twitter.com/nhadiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nhadiq" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/naeemhadiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naeemhadiq" height="20" width="20" /></a>
-<a href="https://fb.com/nhadiq1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nhadiq1" height="20" width="20" /></a>
-<a href="https://instagram.com/nhadiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nhadiq" height="20" width="20" /></a>
-</p>
+
+
+
+##  📈 Analytics
+<img align="left" src="https://githubreadme.nhadiq.me/api?username=nhadiq&layout=compact&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&locale=en&layout=compact" alt="nhadiq" /><img align="center" src="https://githubreadme.nhadiq.me/api/top-langs/?username=nhadiq&theme=chartreuse-dark&include_all_commits=true&locale=en&layout=compact" /><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhadiq&" alt="nhadiq" /></p>
