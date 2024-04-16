@@ -35,10 +35,11 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=nhadiq&layout=compact&theme=algolia&column=7&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=nhadiq&layout=compact&theme=algolia&no-frame=true)
 
 
 
 
 ##  📈 Analytics
-<img align="left" src="https://githubreadme.nhadiq.me/api?username=nhadiq&layout=compact&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&locale=en&layout=compact" alt="nhadiq" /><img align="center" src="https://githubreadme.nhadiq.me/api/top-langs/?username=nhadiq&theme=chartreuse-dark&include_all_commits=true&locale=en&layout=compact" /><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhadiq&" alt="nhadiq" /></p>
+<img align="left" src="https://githubreadme.nhadiq.me/api?username=nhadiq&layout=compact&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&locale=en&layout=compact" alt="nhadiq" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nhadiq&layout=compact" alt="nhadiq" />
+<img align="left" src="https://githubreadme.nhadiq.me/api/top-langs/?username=nhadiq&theme=chartreuse-dark&include_all_commits=true&locale=en&layout=compact" />
