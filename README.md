@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hello@nhadiq.me**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhadiq&layout=compact&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true" alt="nhadiq" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhadiq&theme=chartreuse-dark&include_all_commits=true" />
+<img align="center" src="https://githubreadme.nhadiq.me/api?username=nhadiq&layout=compact&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true" alt="nhadiq" />|<img align="center" src="https://githubreadme.nhadiq.me/api/top-langs/?username=nhadiq&theme=chartreuse-dark&include_all_commits=true" />
 
 ## 📝 Medium Articles
 
@@ -30,7 +30,7 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=nhadiq&layout=compact&theme=onedark&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=nhadiq&layout=compact&theme=algolia&column=7&no-frame=true)
 
 <p align="center">
 <a href="https://dev.to/nhadiq97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nhadiq97" height="20" width="20" /></a>
