@@ -27,9 +27,9 @@
 
 | Project | Role | Description |
 |---------|------|-------------|
-| **[talentz.ai](https://talentz.ai/)** | Builder | 🎯 Solving Mishire Problem |
+| **[talentz.ai](https://talentz.ai/)** | Chief Product Strategist | 🎯 Solving Mishire Problem |
 | **[loopin.work](https://loopin.work/)** | Builder | 🔄 Turn referrals to Opportunities |
-| **[Pricesenz](https://pricesenz.com)** | Reimagining | 🤖 Building AI First Teams and Delivery |
+| **[Pricesenz](https://pricesenz.com)** | Product Manager | 🤖 Building AI First Teams and Delivery |
 
 </details>
 
